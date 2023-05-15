@@ -1317,7 +1317,7 @@ header .mobile-menu {
 .clients .swiper-slide {
 	display: flex;
 	align-items: center;
-	justify-content: center;
+	justify-content: flex-start;
 	height: 270px;
 	flex-direction: column;
 }
