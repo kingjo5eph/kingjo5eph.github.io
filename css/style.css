@@ -1034,6 +1034,8 @@ header .mobile-menu {
     align-items: center;
     height: 100vh;
     flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .portfolio .single-item .swiper-pagination-clickable .swiper-pagination-bullet {
