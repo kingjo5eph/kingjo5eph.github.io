@@ -1030,9 +1030,10 @@ header .mobile-menu {
 }
 
 .portfolio .single-item {
-	display: flex;
-	align-items: center;
-	height: 100vh;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    flex-wrap: wrap;
 }
 
 .portfolio .single-item .swiper-pagination-clickable .swiper-pagination-bullet {
