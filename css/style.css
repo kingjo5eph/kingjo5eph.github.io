@@ -1051,7 +1051,7 @@ header .mobile-menu {
 }
 
 .portfolio .single-item .details {
-	margin-left: 40px;
+	margin-left: 0;
 	white-space: nowrap;
 	cursor: grab;
 }
